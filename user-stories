@@ -1,0 +1,16 @@
+User Stories
+
+- User should be able to pick different ingredients they want to put in their smoothie
+- User will choose ingredients using a checkbox/button
+- User should be able to see selection after they have pressed an ingredient button
+- User selection will remain after being pressed
+- An instruction box will show on start page for user to understand how to choose ingredients
+- User will see top smoothie results from the ingredients they have chosen, most smoothie recipies to populate will be 5
+- When user clicks on the smoothie title/picture they want to use, they will see the entire recipe for the smoothie
+- The user will have access to the external link to the source for the smoothie with the full recipe
+- If the user chooses a combination of ingredients that doesn't exist in the smoothie recipes, they will get a notification to broaden their search
+
+Possible Extensions
+- Favorite smoothie recipes
+- Share your smoothie on social media
+- Random smoothie of the day
