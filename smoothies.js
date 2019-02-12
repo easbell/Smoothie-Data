@@ -14,18 +14,18 @@ const smoothies = [{
   "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
 },
 {
-  "name": "Sweet Cherry Almond Smoothie",
+  "name": "Cherry Almond Smoothie",
   "ingredients": [
-    "1 1/2 cups frozen cherries",
     "1 cup almond milk",
-    "1 scoop protein powder",
-    "1 banana",
-    "ice",
-    "unsweetened coconut flakes, optional topping",
-    "almond butter, optional topping"
+    "1 cup cherries",
+    "3 tablespoons raw almonds",
+    "2 tablespoons raw honey",
+    "1 teaspoon cinnamon",
+    "1/2 teaspoon almond extract",
+    "1 tablespoon coconut oil"
   ],
-  "servings": "4",
-  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+  "servings": "1",
+  "source": "https://bakedbree.com/cherry-almond-smoothies"
 },
 {
   "name": "Lovely Greens Smoothie",
