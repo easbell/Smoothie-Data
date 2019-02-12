@@ -11,7 +11,8 @@ const smoothies = [{
     "ice"
   ],
   "servings": "4",
-  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/",
+  "img": "images/babe-ruth.jpg"
 },
 {
   "name": "Cherry Almond Smoothie",
@@ -25,7 +26,8 @@ const smoothies = [{
     "1 tablespoon coconut oil"
   ],
   "servings": "1",
-  "source": "https://bakedbree.com/cherry-almond-smoothies"
+  "source": "https://bakedbree.com/cherry-almond-smoothies",
+  "img": "images/cherry-almond.jpg"
 },
 {
   "name": "Lovely Greens Smoothie",
@@ -38,21 +40,23 @@ const smoothies = [{
     "ice"
   ],
   "servings": "4",
-  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/",
+  "img": "images/lovely-greens.jpg"
 },
 {
-  "name": "Chocolate Powerhouse Smoothie",
+  "name": "Blueberry Cacao Power Smoothie",
   "ingredients": [
-    "1 cup coconut milk",
-    "1 scoop chocolate protein powder",
-    "1/2 cup blueberries",
-    "1 cup spinach",
-    "1 banana",
-    "1 tablespoon almond butter",
-    "ice"
+    "3/4 cup frozen blueberries",
+    "3/4 cup almond milk",
+    "2 tablespoons raw cacao powder",
+    "1 tablespoon chia seeds",
+    "2-3 pitted dates",
+    "1 cup power greens mix",
+    "stevia or pure maple syrup, to taste (optional)"
   ],
-  "servings": "4",
-  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+  "servings": "",
+  "source": "https://www.hummusapien.com/blueberry-cocao-power-smoothie/",
+  "img": "images/blueberry-cacao-power.jpg"
 },
 {
   "name": "Youthful Glow Green Smoothie",
@@ -67,20 +71,22 @@ const smoothies = [{
     "1 teaspoon fresh ginger grated, optional"
   ],
   "servings": "4",
-  "source": "https://www.modernhoney.com/youthful-glow-green-smoothie/"
+  "source": "https://www.modernhoney.com/youthful-glow-green-smoothie/",
+  "img": "images/youthful-glow-green.jpg"
 },
 {
-  "name": "Peachy Mango Smoothie",
+  "name": "Peach Mango Smoothie",
   "ingredients": [
     "1 cup peaches",
-    "1 cup mangoes",
-    "1 banana",
-    "1 cup orange juice",
-    "1/4 teaspoon turmeric",
-    "1/4 teaspoon ginger"
+    "1/2 cup mangoes",
+    "1/4 cup mango nectar",
+    "1/2 a banana",
+    "2 teaspoons sugar or honey (optional)",
+    "2 ice cubes"
   ],
-  "servings": "4",
-  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+  "servings": "1",
+  "source": "https://www.onceuponachef.com/recipes/peach-mango-smoothies.html",
+  "img": "images/peach-mango.jpg"
 },
 {
   "name": "Mango, Berry & Banana Smoothie",
@@ -94,7 +100,8 @@ const smoothies = [{
     "1 tablespoon ground flaxseeds"
   ],
   "servings": "2",
-  "source": "https://www.bonappetit.com/recipe/mango-berry-banana-smoothie"
+  "source": "https://www.bonappetit.com/recipe/mango-berry-banana-smoothie",
+  "img": "images/mango-berry-banana.jpg"
 },
 {
   "name": "Banana Almond Smoothie",
@@ -105,7 +112,8 @@ const smoothies = [{
     "1/8 teaspoon almond extract (optional)]"
   ],
   "servings": "1",
-  "source": "https://www.bonappetit.com/recipe/banana-almond-smoothie"
+  "source": "https://www.bonappetit.com/recipe/banana-almond-smoothie",
+  "img": "images/banana-almond.jpg"
 },
 {
   "name": "Blackberry and Yogurt Breakfast Smoothie",
@@ -119,7 +127,8 @@ const smoothies = [{
     "1 teaspoon honey or light agave syrup (nectar)"
   ],
   "servings": "1",
-  "source": "https://www.bonappetit.com/recipe/blackberry-and-yogurt-breakfast-smoothie"
+  "source": "https://www.bonappetit.com/recipe/blackberry-and-yogurt-breakfast-smoothie",
+  "img": "images/backberry-and-yogurt-breakfast.jpg"
 },
 {
   "name": "Avocado, Kale, Pineapple, and Coconut Smoothie",
@@ -135,7 +144,8 @@ const smoothies = [{
     "Pinch of kosher salt"
   ],
   "servings": "1",
-  "source": "https://www.bonappetit.com/recipe/avocado-kale-pineapple-and-coconut-smoothie"
+  "source": "https://www.bonappetit.com/recipe/avocado-kale-pineapple-and-coconut-smoothie",
+  "img": "images/avocado-kale-pineapple-and-coconut.jpg"
 },
 {
   "name": "Tropical Carrot, Ginger, and Turmeric Smoothie",
@@ -151,7 +161,8 @@ const smoothies = [{
     "Pinch of kosher salt"
   ],
   "servings": "1",
-  "source": "https://www.bonappetit.com/recipe/tropical-carrot-ginger-and-turmeric-smoothie"
+  "source": "https://www.bonappetit.com/recipe/tropical-carrot-ginger-and-turmeric-smoothie",
+  "img": "images/tropical-carrot-ginger-and-turmeric.jpg"
 },
 {
   "name": "Strawberry Banana Smoothie",
@@ -162,8 +173,10 @@ const smoothies = [{
     "1/2 cup milk"
   ],
   "servings": "2",
-  "source": "https://downshiftology.com/recipes/strawberry-banana-smoothie"
-}, {
+  "source": "https://downshiftology.com/recipes/strawberry-banana-smoothie",
+  "img": "images/strawberry-banana.jpg"
+}, 
+{
   "name": "Blackberry Coconut Fruit Smoothie",
   "ingredients": [
     "1 cup unsweetened coconut milk",
@@ -173,7 +186,8 @@ const smoothies = [{
     "2 scoops of Vanilla Protein Powder"
   ],
   "servings": "1",
-  "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes"
+  "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes",
+  "img": "images/blackberry-coconut-fruit.jpg"
 },
 {
   "name": "Tropical Chia Fruit Smoothie",
@@ -184,7 +198,8 @@ const smoothies = [{
     "2 scoops of Vanilla Protein Powder"
   ],
   "servings": "1",
-  "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes"
+  "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes",
+  "img": "images/tropical-chai-fruit.jpg"
 },
 {
   "name": "The Best Green Protein Fruit Smoothie",
@@ -197,8 +212,10 @@ const smoothies = [{
     "2 scoops of Vanilla Protein Powder"
   ],
   "servings": "1",
-  "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes"
-}, {
+  "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes",
+  "img": "images/the-best-green-protein-fruit.jpg"
+}, 
+{
   "name": "Tropical Smoothie Recipe",
   "ingredients": [
     "3/4 cup of pineapple juice",
@@ -208,7 +225,8 @@ const smoothies = [{
     "1 cup of frozen pineapple"
   ],
   "servings": "2",
-  "source": "https://www.dinneratthezoo.com/tropical-smoothie-recipe/"
+  "source": "https://www.dinneratthezoo.com/tropical-smoothie-recipe/",
+  "img": "images/tropical-smoothie.jpg"
 },
 {
   "name": "The Best Breakfast Smoothie",
@@ -221,7 +239,8 @@ const smoothies = [{
     "1 cup almond milk"
   ],
   "servings": "2",
-  "source": "https://fitfoodiefinds.com/the-best-breakfast-smoothie/"
+  "source": "https://fitfoodiefinds.com/the-best-breakfast-smoothie/",
+  "img": "images/the-best-breakfast-smoothie.jpg"
 },
 {
   "name": "Aloha Pineapple Smoothie",
@@ -233,7 +252,8 @@ const smoothies = [{
     "1/2 cup vanilla greek yogurt"
   ],
   "servings": "1",
-  "source": "https://www.sixsistersstuff.com/recipe/copycat-jamba-juice-aloha-pineapple-smoothie-recipe/"
+  "source": "https://www.sixsistersstuff.com/recipe/copycat-jamba-juice-aloha-pineapple-smoothie-recipe/",
+  "img": "images/aloha-pineapple.jpg"
 },
 {
   "name": "Immunity Boosting Triple Berry Kiwi Smoothie",
@@ -245,7 +265,8 @@ const smoothies = [{
     "1 cup orange juice"
   ],
   "servings": "1",
-  "source": "https://theprettybee.com/triple-berry-kiwi-smoothie/?sf=pywonlz"
+  "source": "https://theprettybee.com/triple-berry-kiwi-smoothie/?sf=pywonlz",
+  "img": "images/immunity-boosting-triple-berry-kiwi.jpg"
 },
 {
   "name": "Detox Green Smoothie with Chia Seeds",
