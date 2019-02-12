@@ -173,7 +173,8 @@ const smoothies = [{
     "1 cup unsweetened almond milk, plus more if needed"
   ],
   "servings": 1,
-  "source": "http://allyscooking.com/2016/12/30/detox-green-smoothie-with-chia-seeds/"
+  "source": "http://allyscooking.com/2016/12/30/detox-green-smoothie-with-chia-seeds/",
+  "img": "./detox-chia.jpg"
 },
 {
   "name": "Orange Creamsicle Smoothie",
@@ -185,7 +186,8 @@ const smoothies = [{
     "Optional: lemon juice Stevia drops"
   ],
   "servings": 2,
-  "source": "https://thefitcookie.com/healthy-orange-creamsicle-smoothie/"
+  "source": "https://thefitcookie.com/healthy-orange-creamsicle-smoothie/",
+  "img": "./oj-creamsicle.jpg"
 },
 {
   "name": "Chocolate Peanut Butter Banana Smoothie",
@@ -198,7 +200,8 @@ const smoothies = [{
     "1/2 cup ice"
   ],
   "servings": 2,
-  "source": "https://lmld.org/chocolate-peanut-butter-banana-smoothie/"
+  "source": "https://lmld.org/chocolate-peanut-butter-banana-smoothie/",
+  "img": "./choc-pb-banana.jpg"
 },
 {
   "name": "Glowing Green Spirulina Smoothie",
@@ -210,19 +213,19 @@ const smoothies = [{
     "1 teaspoon spirulina powder"
   ],
   "servings": 2,
-  "source": "https://www.unsweetenedcaroline.com/glowing-green-spirulina-smoothie/"
+  "source": "https://www.unsweetenedcaroline.com/glowing-green-spirulina-smoothie/",
+  "img": "./spirulina-bb.jpg"
 },
 {
-  "name": "Glowing Green Spirulina Smoothie",
+  "name": "Cherry Mango Anti-Inflammatory Smoothie",
   "ingredients": [
-    "1 banana, frozen",
-    "1/4 cup blueberries, frozen",
-    "1 cup kale",
-    "1 cup unsweetened soy milk (or milk of choice)",
-    "1 teaspoon spirulina powder"
+    "1 cup mango, frozen",
+    "1 cup sweet cherries, frozen",
+    "1 1/4 cup water"
   ],
   "servings": 2,
-  "source": "https://www.unsweetenedcaroline.com/glowing-green-spirulina-smoothie/"
+  "source": "https://www.pinterest.com/pin/359513982735684622/",
+  "img": "cherry-mango-anti.jpg"
 },
 {
   "name": "Berry, Beet, Mint, Lime, and Chia Seed Smoothie",
@@ -237,21 +240,21 @@ const smoothies = [{
     "Pinch of kosher salt"
   ],
   "servings": 1,
-  "source": "https://www.bonappetit.com/recipe/berry-beet-mint-lime-chia-seed-smoothie"
+  "source": "https://www.bonappetit.com/recipe/berry-beet-mint-lime-chia-seed-smoothie",
+  "img": "./beats-bb.jpg"
 },
 {
-  "name": "Berry, Beet, Mint, Lime, and Chia Seed Smoothie",
+  "name": "Copycat Jamba Juice Aloha Pineapple",
   "ingredients": [
-    "1 1/2 cups fresh or frozen blueberries (about 8 ounces)",
-    "1 cup orange juice",
-    "1/2 cup low-fat frozen vanilla yogurt",
-    "1/2 cup ice cubes",
-    "1/4 teaspoon grated orange peel",
-    "Fresh blueberries (for garnish)",
-    "Thinly sliced orange peel (for garnish)"
+    "1/2 banana",
+    "1/2 cup yogurt",
+    "1/2 cup pineapple, fresh",
+    "1 cup ice cubes",
+    "1/2 strawberries"
   ],
   "servings": 2,
-  "source": "https://www.bonappetit.com/recipe/berry-beet-mint-lime-chia-seed-smoothie"
+  "source": "https://www.sixsistersstuff.com/recipe/copycat-jamba-juice-aloha-pineapple-smoothie-recipe/",
+  "img": "./jamba-pineapple.jpg"
 },
 {
   "name": "The World’s Best Green Smoothie",
@@ -264,7 +267,8 @@ const smoothies = [{
     "½ tsp vanilla extract (or ¼ tsp vanilla powder)"
   ],
   "servings": 1,
-  "source": "https://www.smartnutrition.ca/recipes/worlds-best-green-smoothie-3/"
+  "source": "https://www.smartnutrition.ca/recipes/worlds-best-green-smoothie-3/",
+  "img": "./worlds-best-green.jpg"
 },
 {
   "name": "Blueberry Muffin Smoothie",
@@ -278,7 +282,8 @@ const smoothies = [{
     "1/2 cup ice cubes"
   ],
   "servings": 1,
-  "source": "https://iowagirleats.com/2014/07/09/blueberry-muffin-smoothie/"
+  "source": "https://iowagirleats.com/2014/07/09/blueberry-muffin-smoothie/",
+  "img": "bb-muffin.jpg"
 },
 {
   "name": "Watermelon Peach Smoothie",
@@ -290,7 +295,8 @@ const smoothies = [{
     "mint for garnish"
   ],
   "servings": 2,
-  "source": "https://www.seasonalcravings.com/watermelon-peach-smoothie/"
+  "source": "https://www.seasonalcravings.com/watermelon-peach-smoothie/",
+  "img": "peach-watermelon.jpeg"
 },
 {
   "name": "Cinnamon Roll Smoothie",
@@ -303,7 +309,8 @@ const smoothies = [{
     "1 frozen banana (or fresh banana, but add in 3-4 ice cubes with fresh)"
   ],
   "servings": 2,
-  "source": "https://www.familyfreshmeals.com/2015/04/cinnamon-roll-smoothie.html"
+  "source": "https://www.familyfreshmeals.com/2015/04/cinnamon-roll-smoothie.html",
+  "img": "cinnamon-roll.jpg"
 },
 {
   "name": "Cookies and Cream Smoothie",
