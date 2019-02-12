@@ -1,4 +1,88 @@
 const smoothies = [{
+  "name": "Babe Ruth Strawberry Pineapple Banana Smoothie",
+  "ingredients": [
+    "1 cup strawberries",
+    "1/2 cup pineapple",
+    "1 banana",
+    "2 cups orange juice",
+    "1/2 cup greek yogurt",
+    "1 cup spinach, optional",
+    "1 tablespoon chia or flaxseed, optional",
+    "ice"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+},
+{
+  "name": "Sweet Cherry Almond Smoothie",
+  "ingredients": [
+    "1 1/2 cups frozen cherries",
+    "1 cup almond milk",
+    "1 scoop protein powder",
+    "1 banana",
+    "ice",
+    "unsweetened coconut flakes, optional topping",
+    "almond butter, optional topping"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+},
+{
+  "name": "Lovely Greens Smoothie",
+  "ingredients": [
+    "1 cup pineapple",
+    "2 cups spinach",
+    "1/2 cup grapes",
+    "1 1/2 cup orange juice",
+    "1 banana",
+    "ice"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+},
+{
+  "name": "Chocolate Powerhouse Smoothie",
+  "ingredients": [
+    "1 cup coconut milk",
+    "1 scoop chocolate protein powder",
+    "1/2 cup blueberries",
+    "1 cup spinach",
+    "1 banana",
+    "1 tablespoon almond butter",
+    "ice"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+},
+{
+  "name": "Youthful Glow Green Smoothie",
+  "ingredients": [
+    "2 cups kale or power greens mix",
+    "2 cups baby spinach",
+    "2 cups apple juice",
+    "1/2 cucumber",
+    "1/2 lemon squeezed",
+    "1 banana",
+    "ice",
+    "1 teaspoon fresh ginger grated, optional"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/youthful-glow-green-smoothie/"
+},
+{
+  "name": "Peachy Mango Smoothie",
+  "ingredients": [
+    "1 cup peaches",
+    "1 cup mangoes",
+    "1 banana",
+    "1 cup orange juice",
+    "1/4 teaspoon turmeric",
+    "1/4 teaspoon ginger"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+},
+{
   "name": "Mango, Berry & Banana Smoothie",
   "ingredients": [
     "1 very ripe peeled banana (preferably frozen)",
@@ -9,7 +93,7 @@ const smoothies = [{
     "¼ cup plain yogurt",
     "1 tablespoon ground flaxseeds"
   ],
-  "servings": 2,
+  "servings": "2",
   "source": "https://www.bonappetit.com/recipe/mango-berry-banana-smoothie"
 },
 {
@@ -20,7 +104,7 @@ const smoothies = [{
     "1 tablespoon almond butter",
     "1/8 teaspoon almond extract (optional)]"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.bonappetit.com/recipe/banana-almond-smoothie"
 },
 {
@@ -34,7 +118,7 @@ const smoothies = [{
     "1 teaspoon finely grated peeled ginger",
     "1 teaspoon honey or light agave syrup (nectar)"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.bonappetit.com/recipe/blackberry-and-yogurt-breakfast-smoothie"
 },
 {
@@ -50,7 +134,7 @@ const smoothies = [{
     "1 tablespoon light agave nectar",
     "Pinch of kosher salt"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.bonappetit.com/recipe/avocado-kale-pineapple-and-coconut-smoothie"
 },
 {
@@ -66,7 +150,7 @@ const smoothies = [{
     "Pinch of cayenne pepper",
     "Pinch of kosher salt"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.bonappetit.com/recipe/tropical-carrot-ginger-and-turmeric-smoothie"
 },
 {
@@ -77,7 +161,7 @@ const smoothies = [{
     "1/2 cup Greek yogurt",
     "1/2 cup milk"
   ],
-  "servings": 2,
+  "servings": "2",
   "source": "https://downshiftology.com/recipes/strawberry-banana-smoothie"
 }, {
   "name": "Blackberry Coconut Fruit Smoothie",
@@ -88,7 +172,7 @@ const smoothies = [{
     "1/4 cup unsweetened coconut flakes",
     "2 scoops of Vanilla Protein Powder"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes"
 },
 {
@@ -99,7 +183,7 @@ const smoothies = [{
     "½ cup pineapple chunks, fresh or frozen",
     "2 scoops of Vanilla Protein Powder"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes"
 },
 {
@@ -112,7 +196,7 @@ const smoothies = [{
     "1 tbsp almond butter",
     "2 scoops of Vanilla Protein Powder"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes"
 }, {
   "name": "Tropical Smoothie Recipe",
@@ -123,7 +207,7 @@ const smoothies = [{
     "1 cup of frozen mango",
     "1 cup of frozen pineapple"
   ],
-  "servings": 2,
+  "servings": "2",
   "source": "https://www.dinneratthezoo.com/tropical-smoothie-recipe/"
 },
 {
@@ -136,11 +220,11 @@ const smoothies = [{
     "1 tablespoon peanut butter, creamy",
     "1 cup almond milk"
   ],
-  "servings": 2,
+  "servings": "2",
   "source": "https://fitfoodiefinds.com/the-best-breakfast-smoothie/"
 },
 {
-  "name": "Aloha Pineapple Smoothe",
+  "name": "Aloha Pineapple Smoothie",
   "ingredients": [
     "1/2 banana, sliced",
     "1/2 cup strawberries, sliced",
@@ -148,7 +232,7 @@ const smoothies = [{
     "1 cup crushed ice",
     "1/2 cup vanilla greek yogurt"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.sixsistersstuff.com/recipe/copycat-jamba-juice-aloha-pineapple-smoothie-recipe/"
 },
 {
@@ -160,7 +244,7 @@ const smoothies = [{
     "2 kiwifruit peeled and sliced",
     "1 cup orange juice"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://theprettybee.com/triple-berry-kiwi-smoothie/?sf=pywonlz"
 },
 {
@@ -456,7 +540,8 @@ const ingredients = {
     "blackberries",
     "kiwi",
     "strawberries",
-    "pear"
+    "pear",
+    "grapes"
   ],
   "vegetables": [
     "spinach",
@@ -464,7 +549,8 @@ const ingredients = {
     "kale",
     "beet",
     "carrot",
-    "avocado"
+    "avocado",
+    "power greens mix"
   ],
   "bases": [
     "coconut water",
@@ -497,7 +583,8 @@ const ingredients = {
     "peanut butter",
     "vanilla extract",
     "turmeric",
-    "hemp seeds"
+    "hemp seeds",
+    "flaxseed"
   ]
 }
 
