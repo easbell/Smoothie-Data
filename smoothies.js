@@ -140,7 +140,7 @@ const smoothies = [{
   "source": "https://fitfoodiefinds.com/the-best-breakfast-smoothie/"
 },
 {
-  "name": "Aloha Pineapple Smoothe",
+  "name": "Aloha Pineapple Smoothie",
   "ingredients": [
     "1/2 banana, sliced",
     "1/2 cup strawberries, sliced",
