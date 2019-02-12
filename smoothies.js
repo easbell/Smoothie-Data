@@ -83,22 +83,6 @@ const smoothies = [{
   "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
 },
 {
-  "name": "",
-  "ingredients": [
-    "",
-  ],
-  "servings": "",
-  "source": ""
-},
-{
-  "name": "",
-  "ingredients": [
-    "",
-  ],
-  "servings": "",
-  "source": ""
-},
-{
   "name": "Mango, Berry & Banana Smoothie",
   "ingredients": [
     "1 very ripe peeled banana (preferably frozen)",
@@ -109,7 +93,7 @@ const smoothies = [{
     "¼ cup plain yogurt",
     "1 tablespoon ground flaxseeds"
   ],
-  "servings": 2,
+  "servings": "2",
   "source": "https://www.bonappetit.com/recipe/mango-berry-banana-smoothie"
 },
 {
@@ -134,7 +118,7 @@ const smoothies = [{
     "1 teaspoon finely grated peeled ginger",
     "1 teaspoon honey or light agave syrup (nectar)"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.bonappetit.com/recipe/blackberry-and-yogurt-breakfast-smoothie"
 },
 {
@@ -150,7 +134,7 @@ const smoothies = [{
     "1 tablespoon light agave nectar",
     "Pinch of kosher salt"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.bonappetit.com/recipe/avocado-kale-pineapple-and-coconut-smoothie"
 },
 {
@@ -166,7 +150,7 @@ const smoothies = [{
     "Pinch of cayenne pepper",
     "Pinch of kosher salt"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.bonappetit.com/recipe/tropical-carrot-ginger-and-turmeric-smoothie"
 },
 {
@@ -177,7 +161,7 @@ const smoothies = [{
     "1/2 cup Greek yogurt",
     "1/2 cup milk"
   ],
-  "servings": 2,
+  "servings": "2",
   "source": "https://downshiftology.com/recipes/strawberry-banana-smoothie"
 }, {
   "name": "Blackberry Coconut Fruit Smoothie",
@@ -188,7 +172,7 @@ const smoothies = [{
     "1/4 cup unsweetened coconut flakes",
     "2 scoops of Vanilla Protein Powder"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes"
 },
 {
@@ -199,7 +183,7 @@ const smoothies = [{
     "½ cup pineapple chunks, fresh or frozen",
     "2 scoops of Vanilla Protein Powder"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes"
 },
 {
@@ -212,7 +196,7 @@ const smoothies = [{
     "1 tbsp almond butter",
     "2 scoops of Vanilla Protein Powder"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.asweetpeachef.com/4-high-protein-fruit-smoothie-recipes"
 }, {
   "name": "Tropical Smoothie Recipe",
@@ -223,7 +207,7 @@ const smoothies = [{
     "1 cup of frozen mango",
     "1 cup of frozen pineapple"
   ],
-  "servings": 2,
+  "servings": "2",
   "source": "https://www.dinneratthezoo.com/tropical-smoothie-recipe/"
 },
 {
@@ -236,7 +220,7 @@ const smoothies = [{
     "1 tablespoon peanut butter, creamy",
     "1 cup almond milk"
   ],
-  "servings": 2,
+  "servings": "2",
   "source": "https://fitfoodiefinds.com/the-best-breakfast-smoothie/"
 },
 {
@@ -248,7 +232,7 @@ const smoothies = [{
     "1 cup crushed ice",
     "1/2 cup vanilla greek yogurt"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.sixsistersstuff.com/recipe/copycat-jamba-juice-aloha-pineapple-smoothie-recipe/"
 },
 {
@@ -260,7 +244,7 @@ const smoothies = [{
     "2 kiwifruit peeled and sliced",
     "1 cup orange juice"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://theprettybee.com/triple-berry-kiwi-smoothie/?sf=pywonlz"
 },
 {
@@ -272,7 +256,7 @@ const smoothies = [{
     "1 tbsp chia seeds",
     "1 cup unsweetened almond milk, plus more if needed"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "http://allyscooking.com/2016/12/30/detox-green-smoothie-with-chia-seeds/"
 },
 {
@@ -549,7 +533,8 @@ const ingredients = {
     "blackberries",
     "kiwi",
     "strawberries",
-    "pear"
+    "pear",
+    "grapes"
   ],
   "vegetables": [
     "spinach",
@@ -557,7 +542,8 @@ const ingredients = {
     "kale",
     "beet",
     "carrot",
-    "avocado"
+    "avocado",
+    "power greens mix"
   ],
   "bases": [
     "coconut water",
@@ -590,7 +576,8 @@ const ingredients = {
     "peanut butter",
     "vanilla extract",
     "turmeric",
-    "hemp seeds"
+    "hemp seeds",
+    "flaxseed"
   ]
 }
 
