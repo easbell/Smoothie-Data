@@ -258,7 +258,7 @@ const smoothies = [{
   ],
   "servings": 1,
   "source": "http://allyscooking.com/2016/12/30/detox-green-smoothie-with-chia-seeds/",
-  "img": "./detox-chia.jpg"
+  "img": "./image/detox-chia.jpg"
 },
 {
   "name": "Orange Creamsicle Smoothie",
@@ -394,7 +394,7 @@ const smoothies = [{
   ],
   "servings": 2,
   "source": "https://www.familyfreshmeals.com/2015/04/cinnamon-roll-smoothie.html",
-  "img": "cinnamon-roll.jpg"
+  "img": "./images/cinnamon-roll.png"
 },
 {
   "name": "Cookies and Cream Smoothie",
@@ -407,7 +407,8 @@ const smoothies = [{
     "Garnish: whipped cream or whipped topping, cookie crumbs (optional)"
   ],
   "servings": 1,
-  "source": "http://www.centercutcook.com/cookies-and-cream-smoothie/"
+  "source": "http://www.centercutcook.com/cookies-and-cream-smoothie/",
+  "img": "./images/cookies-cream.png"
 },
 {
   "name": "Anti-Bloat Smoothie",
@@ -419,7 +420,8 @@ const smoothies = [{
     "handful of ice"
   ],
   "servings": 1,
-  "source": "https://happyhealthymama.com/the-anti-bloat-smoothie.html#_a5y_p=4123702"
+  "source": "https://happyhealthymama.com/the-anti-bloat-smoothie.html#_a5y_p=4123702",
+  "img": "./images/antibloat.png"
 },
 {
   "name": "Healthy Apple Pie Smoothie",
@@ -432,7 +434,8 @@ const smoothies = [{
     "1/4 teaspoon cinnamon"
   ],
   "servings": 2,
-  "source": "https://www.familyfreshmeals.com/2015/08/healthy-apple-pie-smoothie.html"
+  "source": "https://www.familyfreshmeals.com/2015/08/healthy-apple-pie-smoothie.html",
+  "img": "./images/apple-pie.png"
 },
 {
   "name": "Healthy Pina Colada Smoothie",
@@ -444,7 +447,8 @@ const smoothies = [{
     "a handful of ice cubes"
   ],
   "servings": 1,
-  "source": "https://gatherforbread.com/easy-5-minute-pina-colada-smoothie/"
+  "source": "https://gatherforbread.com/easy-5-minute-pina-colada-smoothie/",
+  "img": "./images/pina-colada.png"
 },
 {
   "name": "Raspberry Apple Smoothie with Bananas",
@@ -456,7 +460,8 @@ const smoothies = [{
     "1/2 cup ice cubes"
   ],
   "servings": 2,
-  "source": "https://www.jessicagavin.com/raspberry-apple-smoothie-bananas/"
+  "source": "https://www.jessicagavin.com/raspberry-apple-smoothie-bananas/",
+  "img": "./images/rasp-apple.png"
 },
 {
   "name": "Cherry Smoothie",
@@ -468,7 +473,8 @@ const smoothies = [{
     "fresh cherries and mint sprigs for garnish optional"
   ],
   "servings": 2,
-  "source": "https://www.dinneratthezoo.com/cherry-smoothie/"
+  "source": "https://www.dinneratthezoo.com/cherry-smoothie/",
+  "img": "./images/cherry.png"
 },
 {
   "name": "Pomegranate Smoothie",
@@ -479,7 +485,8 @@ const smoothies = [{
     "1 cup frozen blueberries"
   ],
   "servings": 3,
-  "source": "https://realfoodrealdeals.com/pomegranate-smoothie/"
+  "source": "https://realfoodrealdeals.com/pomegranate-smoothie/",
+  "img": "./images/pomegranate.png"
 },
 {
   "name": "Mango Vanilla Smoothie",
@@ -490,7 +497,8 @@ const smoothies = [{
     "1/2 teaspoon vanilla extract"
   ],
   "servings": 1,
-  "source": "https://gatherforbread.com/mango-vanilla-smoothie/"
+  "source": "https://gatherforbread.com/mango-vanilla-smoothie/",
+  "img": "./images/mango-vanilla.png"
 },
 {
   "name": "Vegan Oat Smoothie",
@@ -504,7 +512,8 @@ const smoothies = [{
     "Pinch of pink sea salt"
   ],
   "servings": 1,
-  "source": "https://www.leahsplate.com/vanilla-oat-protein-smoothie/"
+  "source": "https://www.leahsplate.com/vanilla-oat-protein-smoothie/",
+  "img": "./images/vanilla-oat.png"
 },
 {
   "name": "Ultra Dreamy Mint Chocolate Chip Smoothie",
@@ -520,7 +529,8 @@ const smoothies = [{
     "1 tablespoon dark chocolate chips"
   ],
   "servings": 1,
-  "source": "https://sunkissedkitchen.com/green-spinach-mint-chocolate-chip-smoothie/"
+  "source": "https://sunkissedkitchen.com/green-spinach-mint-chocolate-chip-smoothie/",
+  "img": "./images/choc-mint.png"
 }
 ]
 
