@@ -1,4 +1,104 @@
 const smoothies = [{
+  "name": "Babe Ruth Strawberry Pineapple Banana Smoothie",
+  "ingredients": [
+    "1 cup strawberries",
+    "1/2 cup pineapple",
+    "1 banana",
+    "2 cups orange juice",
+    "1/2 cup greek yogurt",
+    "1 cup spinach, optional",
+    "1 tablespoon chia or flaxseed, optional",
+    "ice"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+},
+{
+  "name": "Sweet Cherry Almond Smoothie",
+  "ingredients": [
+    "1 1/2 cups frozen cherries",
+    "1 cup almond milk",
+    "1 scoop protein powder",
+    "1 banana",
+    "ice",
+    "unsweetened coconut flakes, optional topping",
+    "almond butter, optional topping"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+},
+{
+  "name": "Lovely Greens Smoothie",
+  "ingredients": [
+    "1 cup pineapple",
+    "2 cups spinach",
+    "1/2 cup grapes",
+    "1 1/2 cup orange juice",
+    "1 banana",
+    "ice"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+},
+{
+  "name": "Chocolate Powerhouse Smoothie",
+  "ingredients": [
+    "1 cup coconut milk",
+    "1 scoop chocolate protein powder",
+    "1/2 cup blueberries",
+    "1 cup spinach",
+    "1 banana",
+    "1 tablespoon almond butter",
+    "ice"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+},
+{
+  "name": "Youthful Glow Green Smoothie",
+  "ingredients": [
+    "2 cups kale or power greens mix",
+    "2 cups baby spinach",
+    "2 cups apple juice",
+    "1/2 cucumber",
+    "1/2 lemon squeezed",
+    "1 banana",
+    "ice",
+    "1 teaspoon fresh ginger grated, optional"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/youthful-glow-green-smoothie/"
+},
+{
+  "name": "Peachy Mango Smoothie",
+  "ingredients": [
+    "1 cup peaches",
+    "1 cup mangoes",
+    "1 banana",
+    "1 cup orange juice",
+    "1/4 teaspoon turmeric",
+    "1/4 teaspoon ginger"
+  ],
+  "servings": "4",
+  "source": "https://www.modernhoney.com/6-healthy-superfood-smoothies/"
+},
+{
+  "name": "",
+  "ingredients": [
+    "",
+  ],
+  "servings": "",
+  "source": ""
+},
+{
+  "name": "",
+  "ingredients": [
+    "",
+  ],
+  "servings": "",
+  "source": ""
+},
+{
   "name": "Mango, Berry & Banana Smoothie",
   "ingredients": [
     "1 very ripe peeled banana (preferably frozen)",
@@ -20,7 +120,7 @@ const smoothies = [{
     "1 tablespoon almond butter",
     "1/8 teaspoon almond extract (optional)]"
   ],
-  "servings": 1,
+  "servings": "1",
   "source": "https://www.bonappetit.com/recipe/banana-almond-smoothie"
 },
 {
